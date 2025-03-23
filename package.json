@@ -16,5 +16,8 @@
     "url": "https://github.com/Saterz/Updates-Relay-Bot/issues"
   },
   "homepage": "https://github.com/Saterz/Updates-Relay-Bot#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  }
 }
